@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: 42d7655a0fc40094eb2cc72a579f84c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fly_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 6426
+        width: 424
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b413ef005d0b4aa2b12302a08cfcf
+      internalID: 38634737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_2
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 6437
+        width: 478
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda82418349a5934cac3938a8a811c9d
+      internalID: 948480875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_3
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 6447
+        width: 488
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630e65daa61a3d4e8e5625d4af710a2
+      internalID: -2087864129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_4
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 6406
+        width: 488
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e45b745adaca4ab9939cb8420db3c
+      internalID: 54653205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 5787
+        width: 417
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bde355148fc50438d2a2c0a13f9cf3
+      internalID: 1246161107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_6
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 5795
+        width: 478
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4921a4f4910b740b5034dc97888389
+      internalID: 666280650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_7
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 5795
+        width: 498
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac442e4de3943419bba3290cf1c456
+      internalID: 1792319724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_8
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 5756
+        width: 488
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c11d33f57198b94cb7ef9d198928b38
+      internalID: 1757121579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Go_1
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 2165
+        width: 189
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41440f1085058eb4d9704d3ad3e81987
+      internalID: 1044061120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Go_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1487
+        width: 220
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a3b97b66c4aab40aef4c03ed596dbb
+      internalID: -513563024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Go_3
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1497
+        width: 198
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9661fe7ee73d39f4e96086f6907417ce
+      internalID: -2086295692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Go_4
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1505
+        width: 209
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912e20b0eb1ca244a055a2300d9f6b8
+      internalID: -371451945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_1
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1277
+        width: 351
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8874ce3dbb3f3e642996e23e9114435c
+      internalID: 1805262200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 634
+        width: 347
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f8cf8e5625424f9d37ea2ca2e563f
+      internalID: -751760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_3
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 634
+        width: 866
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2df329c94a36429b9edbe897e513f
+      internalID: -1097548933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_4
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 634
+        width: 897
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8139c5cef6918d40a65d0f8722109f8
+      internalID: -798922801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_5
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 634
+        width: 798
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77991870b62b934792a062b82eb9851
+      internalID: -1158887369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 658
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0303b06399afe7479e169d74835598f
+      internalID: -1445055323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_7
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 471
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d5ba8e3528f14ab49475a03f5349c
+      internalID: -556583405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_8
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 0
+        width: 319
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004630f6107863149b3f433d1a517df4
+      internalID: 1161775621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Explode_9
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 0
+        width: 219
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ee32ecc237a454f90f10333b63b31f
+      internalID: 1683565963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3326
+        width: 409
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89e4913abd8fc42863f3f02675e764
+      internalID: -1080050544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_2
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3357
+        width: 290
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9620dcec08e1c747b4d5c06327ab5f8
+      internalID: 1840923939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_3
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 3375
+        width: 216
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac968ee9aab94e4b86aeabed1b17981
+      internalID: 1295352240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_4
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 3357
+        width: 368
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb659aa0ca51cd444ab86358d1c344b4
+      internalID: 324259434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2715
+        width: 368
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e52c267e3ef4f94cb24fa1960214498
+      internalID: 947980334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2576
+        width: 891
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024954d88b41c74d824c375aa93de59
+      internalID: 25902725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 2566
+        width: 859
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883b7b02ae34dc40a2519e3452ab496
+      internalID: -1013291345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 2556
+        width: 887
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b89f67435f112488f9ebbb5a3c0ac3
+      internalID: -529617647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2085
+        width: 399
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eca4390f32b154187447a73b6fb356
+      internalID: -1697103544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2136
+        width: 278
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb218701ed85e1e4984dfb1521860596
+      internalID: 1315665615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Self_Destruct_Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2147
+        width: 181
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cfa6f7b9882d944a7dad4d85fa263a
+      internalID: 192178567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fly_8: -1952489460
+      Bullet_Explode_5: -1463251311
+      Enemigo3-export_33: 332061787
+      Enemigo3-export_8: 1653459563
+      Fly_4: -1487207458
+      Die_3: -1731552994
+      Enemigo3-export_19: 2008779047
+      Enemigo3-export_45: 736527263
+      Enemigo3-export_50: -1152188809
+      Enemigo3-export_55: 1193041116
+      Enemigo3-export_17: 694106526
+      Fly_7: -601198853
+      Enemigo3-export_29: 1873362666
+      Bullet_Explode_7: -1976402651
+      Self_Destruct_Explosion_5: 1315665615
+      Self_Destruct_2: 1840923939
+      Enemigo3-export_47: -1914580991
+      Bullet_Explode_9: 1945815181
+      Enemigo3-export_37: 256971838
+      Die_11: 1800965590
+      Die_4: 457059639
+      Bullet_Explode_6: 2096550107
+      Enemigo3-export_30: 1251895186
+      Enemigo3-export_77: -862813032
+      Enemigo3-export_3: -1704032518
+      Enemigo3-export_53: 1034886125
+      Enemigo3-export_14: 1302115621
+      Self_Destruct_Explosion_1: 25902725
+      Bullet_Go_3: 2116869515
+      Bullet_Go_2: 417809857
+      Enemigo3-export_73: 647710414
+      Enemigo3-export_4: 952973485
+      Self_Destruct_4: 324259434
+      Fly_6: 441120907
+      Die_2: -1188174064
+      Enemigo3-export_36: 1131642240
+      Enemigo3-export_0: 793164861
+      Die_12: 102655168
+      Enemigo3-export_44: -2109514931
+      Die_6: -166764077
+      Enemigo3-export_5: -524289767
+      Enemigo3-export_9: -1745137009
+      Enemigo3-export_56: 85079327
+      Self_Destruct_Explosion_4: -1697103544
+      Bullet_Go_4: 1888253047
+      Enemigo3-export_41: -1719127665
+      Enemigo3-export_11: -45947746
+      Enemigo3-export_48: -1616044177
+      Bullet_Go_1: 123452558
+      Enemigo3-export_43: 82834524
+      Bullet_Explode_2: 1966775159
+      Enemigo3-export_34: -1328688937
+      Enemigo3-export_49: 693865498
+      Enemigo3-export_54: -1194888371
+      Enemigo3-export_6: 412416560
+      Self_Destruct_1: -1080050544
+      Enemigo3-export_15: -350700593
+      Fly_3: 158417466
+      Enemigo3-export_10: -1191534532
+      Enemigo3-export_74: 484318915
+      Enemigo3-export_51: 1217459083
+      Fly_5: -1701947577
+      Self_Destruct_Explosion_2: -1013291345
+      Enemigo3-export_35: 922004046
+      Bullet_Explode_1: 1037765148
+      Self_Destruct_Explosion_3: -529617647
+      Die_7: 1973715342
+      Enemigo3-export_2: 955432102
+      Die_10: -1453942975
+      Self_Destruct_Explosion_6: 192178567
+      Enemigo3-export_46: 2014427942
+      Enemigo3-export_75: -824883711
+      Enemigo3-export_31: -49244703
+      Die_5: -724857151
+      Enemigo3-export_76: 1092072088
+      Die_9: -484906214
+      Bullet_Explode_8: 1716780972
+      Enemigo3-export_21: 1807062247
+      Enemigo3-export_58: 1714673452
+      Enemigo3-export_22: -72902635
+      Enemigo3-export_1: -723597120
+      Fly_2: -1674385012
+      Enemigo3-export_68: -871259970
+      Enemigo3-export_20: 964739908
+      Self_Destruct_5: 947980334
+      Enemigo3-export_42: -358869585
+      Fly_1: 1495675668
+      Enemigo3-export_39: -1044186083
+      Self_Destruct_3: 1295352240
+      Enemigo3-export_7: -753805355
+      Die_1: -754883953
+      Bullet_Explode_4: 628099109
+      Enemigo3-export_40: -1454443415
+      Enemigo3-export_57: -1456468121
+      Enemigo3-export_52: 781647647
+      Enemigo3-export_32: 866472457
+      Enemigo3-export_38: 1924830158
+      Die_8: 1802853390
+      Bullet_Explode_3: -2053814746
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
