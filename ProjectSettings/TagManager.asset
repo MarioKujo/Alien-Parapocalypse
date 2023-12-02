@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Enemigo1
+  - Enemigo2
+  - Enemigo3
+  - BalaEnemigo
+  - BalaJugador
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Spawner
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - Enemy3
+  - AttackPlayer
+  - AttackEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Suelo
+    uniqueID: 578012465
+    locked: 0
+  - name: Objetos
+    uniqueID: 311415029
+    locked: 0
